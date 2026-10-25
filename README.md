@@ -1,3 +1,5 @@
+> Based on [https://github.com/tobias-mayer/vector-db](https://github.com/tobias-mayer/vector-db) - studied and extended.
+
 # vector-db
 
 <div align="center">
